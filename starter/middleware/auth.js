@@ -20,12 +20,3 @@ const authenticationMiddleware=async (req,res,next)=>{
 
 
 module.exports=authenticationMiddleware
-
-
-// echo "# JWT-NodeJS" >> README.md
-//   git init
-//   git add README.md
-//   git commit -m "first commit"
-//   git branch -M main
-//   git remote add origin https://github.com/KamshinenD/JWT-NodeJS.git
-//   git push -u origin main
